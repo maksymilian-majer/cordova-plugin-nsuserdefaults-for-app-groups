@@ -55,7 +55,6 @@ window.AppGroupsUserDefaults.saveAll(suite, [options1, options2],
 
 var options = {
       key: "foo",
-      value: "bar",
       suite: "group.cats.catsAreAwesome"};
 
 window.AppGroupsUserDefaults.remove(options,
